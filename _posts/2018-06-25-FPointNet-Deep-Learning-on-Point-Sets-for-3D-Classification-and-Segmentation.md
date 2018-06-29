@@ -1,18 +1,23 @@
 ---
-title: 'PointNet:Deep Learning on Point Sets for 3D Classification and Segmentation'
+title: 'Frustum PointNets for 3D Object Detection from RGB-D Data'
 date: 2018-06-25
-permalink: /posts/2018/06/PointNet/
+permalink: /posts/2018/06/FPointNet/
 tags:
   - machine learning
 ---
-An introduction to PointNet
-[original paper](https://arxiv.org/abs/1612.00593)
+An introduction to Frustum PointNet
+[original paper](https://arxiv.org/abs/1711.08488)
 
 
-Properties of Points Sets
+Introduction
 ======
-1. Unordered.
-Point cloud is a set of points without specific order. In orther words, a network that consumes N 3D point sets needs to be invariant to N! permutations of the input set in data feeding order.
+3D sesor data is often in the form of point clouds. And how to represent point cloud and what deep net architecture to use for 3D object detection.remains an open problem. 
+
+Most exiting works convert 3D points clouds to images by projection or to volumetric grids by quantization and then apply convolution networks.
+
+However, this data representation transformation may obscure natural 3D patterns and invariances of the data. Recently, a number of papers have proposed to process point clouds directly without converting them to other formats. For exampel Pointnets.
+
+While Pointnets are capable of claasifying a whole point cloud, it is unclear how this architecture can be used for instance-level 3D object detection 
 
 1. Interaction among points.
 The points are from a space with a distance metric. It means that points are not isolated, and neighboring points from a meaningful subset. Therefore, the model needs to be able to capture local structures from nearby points, and the combinatorial interactions among local structures.
