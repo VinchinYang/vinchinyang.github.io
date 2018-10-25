@@ -12,6 +12,7 @@ redirect_from:
 
 Summary
 ======
+My research and interest areas are follows:
 * Robotics Control and Perception
 * Mechatronics
 * Optimization
@@ -19,8 +20,8 @@ Summary
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
+* B.S. in Shanghai, University of Shanghai for Sci and Tech, 2014
+* M.S. in Ann Arbor, University of Michigan, 2018
 
 Work experience
 ======
