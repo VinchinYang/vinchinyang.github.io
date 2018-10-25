@@ -12,9 +12,9 @@ redirect_from:
 
 Summary
 ======
-*Robotics Control and Perception
-*Sensor Estimation
-*Optimization
+* Robotics Control and Perception
+* Sensor Estimation
+* Optimization
 
 Education
 ======
