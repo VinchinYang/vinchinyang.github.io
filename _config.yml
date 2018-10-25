@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weiqing Yang"
 title_separator          : "-"
 name                     : &name "Weiqing Yang"
-description              : &description "master student in the University of Michigan"
+description              : &description "graduate student at the University of Michigan, Ann Arbor"
 url                      : https://vinchinyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vinchinyang/vinchinyang.github.io"
@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Weiqing Yang"
   avatar           : "profile.png"
-  bio              : "master student in the University of Michigan, research assistent in Mcity"
+  bio              : "Graduate student in the University of Michigan, Ann Arbor"
   location         : "Ann Arbor, Michigan"
   employer         :
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vinchinyang"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
