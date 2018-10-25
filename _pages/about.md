@@ -13,8 +13,9 @@ redirect_from:
 Summary
 ======
 * Robotics Control and Perception
-* Sensor Estimation
+* Mechatronics
 * Optimization
+* Data Structure and Algorithm
 
 Education
 ======
