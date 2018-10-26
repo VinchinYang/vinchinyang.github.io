@@ -50,9 +50,9 @@ Publications
  
 Projects
 ======
-| ![mstile-150x150.png](/images/mstile-150x150.png) |
-|:--:| 
-| *Space* |
+| ![mstile-150x150.png](/images/mstile-150x150.png) |description|
+|:--:| description|
+| *Space* |description|
 
 Talks
 ======
