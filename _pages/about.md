@@ -50,7 +50,7 @@ Publications
  
 Projects
 ======
-| ![mstile-150x150.png](images/mstile-150x150.png=100x20) |
+| ![mstile-150x150.png](images/mstile-150x150.png) |
 |:--:| 
 | *Space* |
 
