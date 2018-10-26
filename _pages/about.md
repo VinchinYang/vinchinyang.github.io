@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Summary"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
-
-Summary
-======
+{% include base_path %} 
 My research and interest areas are follows:
 * Robotics Control and Perception
 * Mechatronics
