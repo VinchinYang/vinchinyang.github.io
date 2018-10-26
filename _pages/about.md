@@ -50,7 +50,7 @@ Publications
  
 Projects
 ======
-| ![space-1.jpg](https://github.com/VinchinYang/vinchinyang.github.io/blob/master/images/mstile-150x150.png=100x20) |
+| ![space-1.jpg](/images/mstile-150x150.png=100x20) |
 |:--:| 
 | *Space* |
 |:--:| 
