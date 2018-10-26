@@ -50,11 +50,9 @@ Publications
  
 Projects
 ======
-| ![mstile-150x150.png](/images/mstile-150x150.png) |
-|----| 
-| *Space* |
-
-| ![mstile-150x150.png](/images/mstile-150x150.png)  | Content55555\55555<br>55555\55555\5555 |
+| Project | Description |
+| --- | --- |
+| ![mstile-150x150.png](/images/mstile-150x150.png)  | Content6<br>6<br>6<br>6<br>66<br>66<br>66<br>6<br> |
 | ![mstile-150x150.png](/images/mstile-150x150.png)  | Content Cell  |
 
 Talks
