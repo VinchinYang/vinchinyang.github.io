@@ -53,8 +53,6 @@ Projects
 | ![mstile-150x150.png](/images/mstile-150x150.png=100x20) |
 |:--:| 
 | *Space* |
-|:--:| 
-| *Space* |
 Talks
 ======
   <ul>{% for post in site.talks %}
