@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %} 
+
 My research and interest areas are follows:
 * Robotics Control and Perception
 * Mechatronics
@@ -18,19 +19,19 @@ My research and interest areas are follows:
 Education
 ======
 * B.S. in Shanghai, University of Shanghai for Sci and Tech, 2014
-* M.S. in Ann Arbor, University of Michigan, 2018
+* M.S. in Ann Arbor, University of Michigan, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2018: Summer Internship
+  * Hongjing Drive
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2017: Research Assistant
+  * University of Michigan, Ann Arbor
+  * Duties included: analyse driving data, find driving primitives by applying machine learning
+  * Supervisor: Professor Zhao
   
 Skills
 ======
