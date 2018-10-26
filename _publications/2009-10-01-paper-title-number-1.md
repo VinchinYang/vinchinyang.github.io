@@ -32,4 +32,4 @@ well. This new method could enhance the standard development
 of the energy efficiency and emission testing of CAV and other
 off-cycle credits.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://vinchinyang.github.io/files/1805.07643.pdf)
