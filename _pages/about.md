@@ -25,7 +25,7 @@ Work experience
 ======
 * Summer 2018: Summer Internship
   * Hongjing Drive
-  * Duties included: Tagging issues
+  * Duties included: lidar and cameara sensors fusion, autonomous vehicle localization
   * Supervisor: Professor Git
 
 * Winter 2017: Research Assistant
