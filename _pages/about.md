@@ -56,8 +56,8 @@ Projects
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ![mstile-150x150.png](/images/mstile-150x150.png)  | Content Cell  |
+| ![mstile-150x150.png](/images/mstile-150x150.png)  | Content Cell  |
 
 Talks
 ======
