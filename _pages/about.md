@@ -51,7 +51,7 @@ Publications
 Projects
 ======
 
-[![mstile-150x150.png](/images/mstile-150x150.png)]({{< relref "post/B.md" >}})
+[![mstile-150x150.png](/images/rexarm_150x150.png)]({{< relref "post/B.md" >}})
 
 | Project | Description |
 | --- | --- |
