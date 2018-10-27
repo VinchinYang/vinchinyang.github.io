@@ -55,7 +55,7 @@ Projects
 
 | Project | Description |
 | :--- | :---: |
-|[Emplemented 6-DOF rigid-body coordinate transforms by using homogeneous coordinate transforms<br><br>Modeled the forward and inverse kinematics for mnupilator<br>6<br>66<br>66<br>66<br>6<br>](http://google.com) | ![rexarm_150x150.png](/images/rexarm_150x150.png)  | 
+|['Emplemented 6-DOF rigid-body coordinate transforms by using homogeneous coordinate transforms'<br>Modeled the forward and inverse kinematics for mnupilator<br>6<br>66<br>66<br>66<br>6<br>](http://google.com) | ![rexarm_150x150.png](/images/rexarm_150x150.png)  | 
 | Content Cell  | ![mstile-150x150.png](/images/mstile-150x150.png)  |
 
 Talks
