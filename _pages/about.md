@@ -55,7 +55,7 @@ Projects
 
 | Project | Description |
 | :--- | :---: |
-|[ **Emplemented 6-DOF rigid-body coordinate transforms by using homogeneous coordinate transforms.** <br>Modeled the forward and inverse kinematics for manipulator.<br> **Calibrated the workspace, RGB camera and depth camera.** <br>Implemented robust object detection algorithm by fusion information from both sensens. <br>**Conducted the path planing for manupilator to get amooth and obstacle free trajectory.**<br>66<br>6<br>](http://google.com) | ![rexarm_150x150.png](/images/rexarm_150x150.png)  | 
+|[ **Implemented 6-DOF rigid-body coordinate transforms by using homogeneous coordinate transforms.** <br>Modeled the forward and inverse kinematics for manipulator.<br> **Calibrated the workspace, RGB camera and depth camera.** <br>Implemented robust object detection algorithm by fusion information from both sensors. <br>**Conducted path planing for manupilator to get smooth and obstacle free trajectories.**<br>66<br>6<br>](http://google.com) | ![rexarm_150x150.png](/images/rexarm_150x150.png)  | 
 | Content Cell  | ![mstile-150x150.png](/images/mstile-150x150.png)  |
 
 Talks
