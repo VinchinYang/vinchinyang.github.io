@@ -27,7 +27,7 @@ Work experience
   * Hongjing Drive
   * Duties included: lidar and cameara sensors fusion, autonomous vehicle localization
 
-* Winter 2017: Research Assistant
+* Winter 2018: Research Assistant
   * University of Michigan, Ann Arbor
   * Duties included: analyse driving data, find driving primitives by applying machine learning
   * Supervisor: Professor Zhao
