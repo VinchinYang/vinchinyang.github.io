@@ -56,20 +56,3 @@ Projects
 |**Implemented 6-DOF rigid-body coordinate transforms by using homogeneous coordinate transforms.** `Acting` <br>Modeled the forward and inverse kinematics for manipulator.`Acting`<br> **Calibrated the workspace, RGB camera and depth camera.**`Perception`<br>Implemented robust object detection algorithm by fusion information from both sensors.`Perception`<br>**Conducted path planing for manupilator to get smooth and obstacle free trajectories.**`Reasoning`<br>| ![rexarm_150x150.png](/images/rexarm_150x150.png)  | 
 |**Implemented dynamic control of DC motors to balance a wheeled pendulum.** `Acting` <br>Integrated IMU data with wheel encoders to perform a gyrodometric-based dead-reckoning navigation system.`Perception`<br> **Used potential field planning to navigate a set of waypoints as fast as posible using using feedback from Optitrack motion capture system.**`Reasoning`| ![balancebot.png](/images/balanceBot.png)  |
 |**A Raspberry Pi 3 performs SLAM calculations, path planning, and collects 2D Lidar Measurements. A Beaglebone Green with a Mobile Robotics Cape interfaces with the wheel encoders, IMU, and motors and handles motor commands, velocity control,  and odometry.** `Hardware` <br> Created a simultaneous localization and mapping (SLAM) system using 2D lidar by constrcting an occupancy grid and implementing Monte Carlo Localization in a known map.`Perception`<br> **A* Planning and autonomous exploration in an unkonwn environment.**`Perception`<br>| ![mobilerobot (1).png](/images/mobilerobot (1).png)  | 
-<!---
-Talks
-======
-<ul>{% for post in site.talks %}
-{% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
--->  
-<!---
-Teaching
-======
-<ul>{% for post in site.teaching %}
-{% include archive-single-cv.html %}
-{% endfor %}</ul>
--->  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
