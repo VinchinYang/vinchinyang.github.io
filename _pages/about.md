@@ -19,7 +19,7 @@ My research and interest areas are follows:
 Education
 ======
 * B.S. in Shanghai, University of Shanghai for Sci and Tech, 2014
-* M.S. in Ann Arbor, University of Michigan, 2017
+* M.S. in Ann Arbor, University of Michigan, 2019
 
 Work experience
 ======
@@ -30,7 +30,11 @@ Work experience
 * Winter 2018: Research Assistant
   * University of Michigan, Ann Arbor
   * Duties included: analyse driving data, find driving primitives by applying machine learning
-  * Supervisor: Professor Zhao
+  * Supervisor: Professor Ding Zhao
+  
+* 2014-2017: Advanced Driving Assistant System Enginner
+  * Volkswagen, Shanghai
+  * Duties included: refine operating modes of ADAS, CAN network of whole system, do trade off analysis
   
 Publications
 ======
