@@ -26,7 +26,6 @@ Work experience
 * Summer 2018: Summer Internship
   * Hongjing Drive
   * Duties included: lidar and cameara sensors fusion, autonomous vehicle localization
-  * Supervisor: Professor Git
 
 * Winter 2017: Research Assistant
   * University of Michigan, Ann Arbor
@@ -35,12 +34,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Robotics: Control, Perception and Reasoning
+* Embeded System Programming
+* Coding
+  * C++
+  * Python
+  * Matlab
 
 Publications
 ======
