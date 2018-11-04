@@ -55,6 +55,7 @@ Projects
 | :--- | :---: |
 |**Implemented 6-DOF rigid-body coordinate transforms by using homogeneous coordinate transforms.** `Acting` <br>Modeled the forward and inverse kinematics for manipulator.`Acting`<br> **Calibrated the workspace, RGB camera and depth camera.**`Sensing`<br>Implemented robust object detection algorithm by fusion information from both sensors.`Sensing`<br>**Conducted path planing for manupilator to get smooth and obstacle free trajectories.**`Reasoning`<br>| ![rexarm_150x150.png](/images/rexarm_150x150.png)  | 
 |**Implemented dynamic control of DC motors to balance a wheeled pendulum.** `Acting` <br>Integrated IMU data with wheel encoders to perform a gyrodometric-based dead-reckoning navigation system.`Sensing`<br> **Used potential field planning to navigate a set of waypoints as fast as posible using using feedback from Optitrack motion capture system.**`Sensing`| ![balancebot.png](/images/balanceBot.png)  |
+|**Implemented 6-DOF rigid-body coordinate transforms by using homogeneous coordinate transforms.** `Acting` <br>Modeled the forward and inverse kinematics for manipulator.`Acting`<br> **Calibrated the workspace, RGB camera and depth camera.**`Sensing`<br>Implemented robust object detection algorithm by fusion information from both sensors.`Sensing`<br>**Conducted path planing for manupilator to get smooth and obstacle free trajectories.**`Reasoning`<br>| ![mobilerobot.png](/images/mobilerobot.png)  | 
 
 Talks
 ======
