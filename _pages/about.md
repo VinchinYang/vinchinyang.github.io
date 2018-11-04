@@ -56,6 +56,7 @@ Skills
 * Robotics: Control, Perception and Reasoning
 * Embeded System Programming
 * Coding
+  * Embeded C
   * C++
   * Python
   * Matlab
