@@ -32,7 +32,7 @@ Work experience
   * Duties included: analyse driving data, find driving primitives by applying machine learning
   * Supervisor: Professor Ding Zhao
   
-* 2014-2017: Advanced Driving Assistant System Enginner
+* Fall 2014- Fall 2017: Advanced Driving Assistant System Enginner
   * Volkswagen, Shanghai
   * Duties included: refine operating modes of ADAS, CAN network of whole system, do trade off analysis
   
