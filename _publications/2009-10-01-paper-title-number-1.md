@@ -1,7 +1,7 @@
 ---
 title: "Test Accounts: An Introduction"
 collection: publications
-permalink: /publications/2009-10-01-test-accts-intro
+permalink: /publications/2009-10-01-paper-title-number-1
 venue: "Testing Studies"
 excerpt: 'This paper is about testing.'
 date: 2009-10-01
