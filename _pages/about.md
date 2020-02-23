@@ -23,18 +23,18 @@ Education
 
 Work experience
 ======
-* Summer 2018: Summer Internship
+* Spring 2019 - Now: Algorithm Engineer
   * Hongjing Drive
-  * Duties included: lidar and cameara sensors fusion, autonomous vehicle localization
+  * Duties included: autonomous vehicle localization, lidar and cameara sensors calibration
 
 * Winter 2018: Research Assistant
   * University of Michigan, Ann Arbor
   * Duties included: analyse driving data, find driving primitives by applying machine learning
-  * Supervisor: Professor Ding Zhao
+  * Supervisor: PostDoc Yan Chang 
   
-* Fall 2014- Fall 2017: Advanced Driving Assistant System Enginner
+* Fall 2014 - Fall 2017: Technical Training Enginner
   * Volkswagen, Shanghai
-  * Duties included: refine operating modes of ADAS, CAN network of whole system, do trade off analysis
+  * Duties included: provide technical trainings to dealers 
   
 Publications
 ======
