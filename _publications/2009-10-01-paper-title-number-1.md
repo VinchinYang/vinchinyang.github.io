@@ -1,12 +1,12 @@
 ---
 title: "Energy Efficiency and Emission Testing for Connected and Automated Vehicles Using Real-World Driving Data"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://arxiv.org/abs/1805.07643
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-11-06
 venue: 'Journal 1'
 paperurl: 'https://arxiv.org/abs/1805.07643'
-citation: 'Yan Chang, Weiqing Yang, Ding Zhao. (2018). &quot;Energy Efficiency and Emission Testing for Connected and Automated Vehicles Using Real-World Driving Data.&quot; <i>Proceedings of the IEEE 20th International Intelligent Transportation Systems Conference (ITSC), Hawaii, USA, November 4-7, 2018</i>. 1(1).'
+citation: 'Yan Chang, Weiqing Yang, Ding Zhao. (2018). &quot;Energy Efficiency and Emission Testing for Connected and Automated Vehicles Using Real-World Driving Data.&quot; <i>Intelligent Transportation Systems (ITSC), 2018 IEEE 21st International Conference on</i>. 1(1).'
 ---
 By using the onboard sensing and external connectivity
 technology, connected and automated vehicles (CAV)
