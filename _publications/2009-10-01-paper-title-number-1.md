@@ -1,7 +1,7 @@
 ---
 title: "Energy Efficiency and Emission Testing for Connected and Automated Vehicles Using Real-World Driving Data"
 collection: publications
-permalink: 
+permalink: /files/1805.07643.pdf
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-11-06
 venue: 'Journal 1'
