@@ -1,7 +1,7 @@
 ---
 title: "Energy Efficiency and Emission Testing for Connected and Automated Vehicles Using Real-World Driving Data"
 collection: publications
-permalink: /publications/2018-10-01-energy-efficiency-and-emmision
+
 venue: "Testing Studies"
 excerpt: ''
 date: 2018-10-01
