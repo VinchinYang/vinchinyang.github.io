@@ -1,35 +1,29 @@
 ---
-title: "Energy Efficiency and Emission Testing for Connected and Automated Vehicles Using Real-World Driving Data"
+title: "Test Accounts: An Introduction"
 collection: publications
-permalink: /files/1805.07643.pdf
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018-11-06
-venue: 'Journal 1'
-paperurl: 'https://arxiv.org/abs/1805.07643'
-citation: 'Yan Chang, Weiqing Yang, Ding Zhao. (2018). &quot;Energy Efficiency and Emission Testing for Connected and Automated Vehicles Using Real-World Driving Data.&quot; <i>Intelligent Transportation Systems (ITSC), 2018 IEEE 21st International Conference on</i>. 1(1).'
+permalink: /publications/2009-10-01-test-accts-intro
+venue: "Testing Studies"
+excerpt: 'This paper is about testing.'
+date: 2009-10-01
+paperurl: http://academicpages.github.io/files/paper1.pdf
+citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
 ---
-By using the onboard sensing and external connectivity
-technology, connected and automated vehicles (CAV)
-could lead to improved energy efficiency, better routing, and
-lower traffic congestion. With the rapid development of the
-technology and adaptation of CAV, it is more critical to develop
-the universal evaluation method and the testing standard
-which could evaluate the impacts on energy consumption and
-environmental pollution of CAV fairly, especially under the
-various traffic conditions. In this paper, we proposed a new
-method and framework to evaluate the energy efficiency and
-emission of the vehicle based on the unsupervised learning
-methods. Both the real-world driving data of the evaluated
-vehicle and the large naturalistic driving dataset are used to
-perform the driving primitive analysis and coupling. Then the
-linear weighted estimation method could be used to calculate
-the testing result of the evaluated vehicle. The results show
-that this method can successfully identify the typical driving
-primitives. The couples of the driving primitives from the
-evaluated vehicle and the typical driving primitives from the
-large real-world driving dataset coincide with each other very
-well. This new method could enhance the standard development
-of the energy efficiency and emission testing of CAV and other
-off-cycle credits.
 
-[Download paper here](http://vinchinyang.github.io/files/1805.07643.pdf)
+## Abstract
+You can put the full text of the paper in this markdown file. The journal, date, citation, and paperurl will populate automatically based on the YAML variables, and then the text below (this text) will be displayed.
+
+## Introduction
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+## Methods
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Results
+
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Conclusion 
+
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## References
