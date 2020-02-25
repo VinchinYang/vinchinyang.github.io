@@ -32,7 +32,7 @@ Work experience
   * Duties included: analyse driving data, find driving primitives by applying machine learning
   * Supervisor: PostDoc Yan Chang 
   
-* Fall 2014 - Fall 2017: Technical Training Enginner
+* Fall 2014 - Spring 2017: Technical Training Enginner
   * Volkswagen, Shanghai
   * Duties included: provide technical trainings to dealers 
   
